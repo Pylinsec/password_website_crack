@@ -1,0 +1,13 @@
+password generator help :************************
+1- pattern:  start/333#333&333@333!end
+2- efore / : insert first of password if you know
+3- before # : insert number of digit /'1234567890/'
+4- before & : insert number of uppercase /'ABCDEFGHIJKLMNOPQRSTUVWXYZ/'
+5- before @ : insert number of lowercase /'abcdefghijklmnopqrstuvwxyz/'
+6- before ! : insert number of simbol in   \'\"!#$%&()*+,-./:؛;<=>?@[\]^_` |  ~
+7- end    : end of password if you know
+8- you can leave start field and end field empty but
+  you have to fill browse field and pattern
+9-please just change number in pattern
+10- you never change non number in pattern
+11-you have to insert data in data file betwean {} and like dictionary
